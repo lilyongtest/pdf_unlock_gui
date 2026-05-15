@@ -1,0 +1,2 @@
+# pdf_unlock_gui
+GUIで簡単にPDFの制限解除を行えるPythonツールです。 パスワード付きPDFにも対応しています。
